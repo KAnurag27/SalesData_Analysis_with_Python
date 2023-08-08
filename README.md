@@ -29,7 +29,7 @@ Below attached is a quick snapshot, providing dataType description from our data
 
 ## Python Code 
 The code file can be accessed [HERE](https://github.com/KAnurag27/SalesData_Analysis_with_Python/blob/main/SalesData_Analysis.ipynb). Below is the glimpse of code written in <b>Jupyter Notebook</b>: 
-<br></br><b>Libraries & Loading Data</b>
+<br></br><b>Library Installations & Data Loading </b>
 ```python
 # import python libraries
 import numpy as np 
