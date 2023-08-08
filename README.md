@@ -18,7 +18,7 @@ In this project, I have aimed to examine and perform analytics on the sales hist
 - <b>Seaborn</b>
 
 ## Skills 
- Data Cleaning | Data Analysis | Hypothesis Testing | Data Visualization
+Data Cleaning | Data Analysis | Hypothesis Testing | Data Visualization
 
 ## Dataset 
 The dataset is available [HERE](https://github.com/KAnurag27/SalesData_Analysis_with_Python/blob/main/Sales%20Data.csv). It contains information about product purchases by <b>11251</b> Customers in the last quarter of the year 2022, their data has been gathered and categorized in terms of Gender, Age, Marital Status, Origin State, Occupation, etc.
